@@ -1,0 +1,306 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* FractalAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1131}}";
+			sepNavSelRange = "{590, 0}";
+			sepNavVisRange = "{0, 840}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Fractal */ = {
+		activeExec = 0;
+		executables = (
+			728B06B512EDAAFF00D340E5 /* Fractal */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* FractalViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 871}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{481, 990}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 728B06B512EDAAFF00D340E5 /* Fractal */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Fractal */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Fractal */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 728B06BE12EDAB1200D340E5 /* Code sense */;
+		executables = (
+			728B06B512EDAAFF00D340E5 /* Fractal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					590,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					550,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322238407;
+			PBXWorkspaceStateSaveDate = 322238407;
+		};
+		perUserProjectItems = {
+			7238A45712F02B4B00DFFAED = 7238A45712F02B4B00DFFAED /* PBXTextBookmark */;
+			7238A45912F02B4B00DFFAED = 7238A45912F02B4B00DFFAED /* PBXTextBookmark */;
+			7238A4E912F0336E00DFFAED = 7238A4E912F0336E00DFFAED /* PlistBookmark */;
+			7241A6CD12F0838A004E80FE = 7241A6CD12F0838A004E80FE /* PBXTextBookmark */;
+			7241A6F212F08574004E80FE = 7241A6F212F08574004E80FE /* PBXTextBookmark */;
+			7262461412F5E3FA0094DC56 = 7262461412F5E3FA0094DC56 /* PlistBookmark */;
+			7262461512F5E3FA0094DC56 = 7262461512F5E3FA0094DC56 /* PBXTextBookmark */;
+			7262461712F5E3FA0094DC56 = 7262461712F5E3FA0094DC56 /* PBXTextBookmark */;
+			7262462712F5E5950094DC56 = 7262462712F5E5950094DC56 /* PBXTextBookmark */;
+			728B098912EDD69100D340E5 = 728B098912EDD69100D340E5 /* PBXTextBookmark */;
+			728B0AC112EE019000D340E5 = 728B0AC112EE019000D340E5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 728B06BD12EDAB1200D340E5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7238A45712F02B4B00DFFAED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7238A45812F02B4B00DFFAED /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 298";
+		rLen = 100;
+		rLoc = 11096;
+		rType = 0;
+		vrLen = 1369;
+		vrLoc = 9960;
+	};
+	7238A45812F02B4B00DFFAED /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	7238A45912F02B4B00DFFAED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7238A45A12F02B4B00DFFAED /* math.h */;
+		name = "math.h: 334";
+		rLen = 31;
+		rLoc = 14381;
+		rType = 0;
+		vrLen = 1174;
+		vrLoc = 13485;
+	};
+	7238A45A12F02B4B00DFFAED /* math.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = math.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/architecture/i386/math.h;
+		sourceTree = "<absolute>";
+	};
+	7238A4E912F0336E00DFFAED /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 7238A4D112F0320100DFFAED /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"get-task-allow",
+		);
+		name = /Work/Fractal/Entitlements.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	7241A6CD12F0838A004E80FE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FractalViewController.m */;
+		name = "FractalViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 935;
+		vrLoc = 536;
+	};
+	7241A6F212F08574004E80FE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7241A6F312F08574004E80FE /* UIControl.h */;
+		name = "UIControl.h: 60";
+		rLen = 35;
+		rLoc = 2481;
+		rType = 0;
+		vrLen = 1799;
+		vrLoc = 1519;
+	};
+	7241A6F312F08574004E80FE /* UIControl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIControl.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIControl.h;
+		sourceTree = "<absolute>";
+	};
+	7262461412F5E3FA0094DC56 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Fractal-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Work/Fractal/Fractal-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	7262461512F5E3FA0094DC56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 728B06C112EDAB2C00D340E5 /* FractalView.h */;
+		name = "FractalView.h: 34";
+		rLen = 0;
+		rLoc = 606;
+		rType = 0;
+		vrLen = 965;
+		vrLoc = 137;
+	};
+	7262461712F5E3FA0094DC56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 728B06C212EDAB2C00D340E5 /* FractalView.m */;
+		name = "FractalView.m: 327";
+		rLen = 2181;
+		rLoc = 8816;
+		rType = 0;
+		vrLen = 991;
+		vrLoc = 8699;
+	};
+	7262462712F5E5950094DC56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 728B06C212EDAB2C00D340E5 /* FractalView.m */;
+		name = "FractalView.m: 340";
+		rLen = 42;
+		rLoc = 9136;
+		rType = 0;
+		vrLen = 1010;
+		vrLoc = 8723;
+	};
+	728B06B512EDAAFF00D340E5 /* Fractal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Fractal;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	728B06BD12EDAB1200D340E5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	728B06BE12EDAB1200D340E5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	728B06C112EDAB2C00D340E5 /* FractalView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 793}}";
+			sepNavSelRange = "{606, 0}";
+			sepNavVisRange = "{137, 965}";
+		};
+	};
+	728B06C212EDAB2C00D340E5 /* FractalView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 5759}}";
+			sepNavSelRange = "{9073, 0}";
+			sepNavVisRange = "{8723, 967}";
+			sepNavWindowFrame = "{{76, 439}, {750, 558}}";
+		};
+	};
+	728B098912EDD69100D340E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FractalAppDelegate.m */;
+		name = "FractalAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 590;
+		rType = 0;
+		vrLen = 840;
+		vrLoc = 0;
+	};
+	728B0AC112EE019000D340E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 728B0AC212EE019000D340E5 /* stdlib.h */;
+		name = "stdlib.h: 146";
+		rLen = 23;
+		rLoc = 4849;
+		rType = 0;
+		vrLen = 1331;
+		vrLoc = 4005;
+	};
+	728B0AC212EE019000D340E5 /* stdlib.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdlib.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+}
